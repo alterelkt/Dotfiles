@@ -4,8 +4,8 @@
 
 - To stow
 
-`stow -v -n -t ~/ -d */`
+`stow -v -t ~/ -d */`
 
 - To unstow
 
-`stow -D -v -n -t ~/ -d */`
+`stow -D -v -t ~/ -d */`
