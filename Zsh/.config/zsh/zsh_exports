@@ -1,0 +1,7 @@
+#!/bin/sh
+HISTFILE="$HOME/.histfile"
+HISTSIZE=1000000
+SAVEHIST=1000000
+export PATH="$HOME/.local/bin":$PATH
+export MANWIDTH=150
+#eval "`pip completion --zsh`"
